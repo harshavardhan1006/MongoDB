@@ -1,3 +1,6 @@
+## Low Level Architecture Diagram
+
+```text
                           ┌────────────────────┐
                           │      Client        │
                           │   (Browser/User)   │
@@ -30,3 +33,4 @@
 │    MongoDB     │
 │    Database    │
 └────────────────┘
+```
